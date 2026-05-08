@@ -4,7 +4,9 @@ Projeto de análise de vendas utilizando Looker Studio, com foco na identificaç
 
 ## Visualize o Dashboard
 
-👉 https://datastudio.google.com/reporting/beb1907b-e9df-49ab-a379-afe964770138
+```txt
+https://datastudio.google.com/reporting/beb1907b-e9df-49ab-a379-afe964770138
+```
 
 ## Funcionalidades
 
